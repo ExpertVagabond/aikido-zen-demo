@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "@aikidosec/firewall": "^1.8.46",
+    "better-sqlite3": "^13.0.3",
     "express": "^5.3.0"
   }
 }
